@@ -22,8 +22,11 @@
     </WP8Capabilities>
     <WP8TileTitle />
     <WP8ProductID>{168d1467-ebb7-44b4-a3a2-6516aeb9ef2f}</WP8ProductID>
-    <WP8SupportedResolutions />
+    <WP8SupportedResolutions>ID_RESOLUTION_WVGA;ID_RESOLUTION_WXGA;ID_RESOLUTION_HD720P</WP8SupportedResolutions>
     <WP8PublisherID>{6fb13b39-5322-49c7-9a25-4425d3ba0632}</WP8PublisherID>
+    <Author />
+    <Description>KendoUIMobile_26.2.14</Description>
+    <WP8Publisher />
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\Telerik\ICE\Tools\Mobile\MobileTools.targets" />
 </Project>
